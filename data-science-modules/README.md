@@ -1,9 +1,11 @@
-# TEMPLATE ---------------------------------------
+# Data Science
+
+## Machine Learning
 ### Supervised
-#### Classification
-#### Regression
+-> Classification
+-> Regression
 ### Un-Supervised
-#### Clustering
+-> Clustering
 
 ## Understand the problem
 ### Output : Success metric (e.g. Mean Absolute Error)
