@@ -1,51 +1,38 @@
 # TEMPLATE ---------------------------------------
-Supervised
-    Classification
-    Regression
-Un-Supervised
-    Clustering
+### Supervised
+#### Classification
+#### Regression
+### Un-Supervised
+#### Clustering
 
-## ------------------------------------------------
 ## Understand the problem
-Output : Success metric (e.g. Mean Absolute Error)
-## ------------------------------------------------
+### Output : Success metric (e.g. Mean Absolute Error)
 
-## ------------------------------------------------
 ## Collect data
-Input : urls, csvs
-Methods : Web-Scraping, Pandas manipulation
-Output : Unstructured Data
-## ------------------------------------------------
+### Input : urls, csvs
+### Methods : Web-Scraping, Pandas manipulation
+### Output : Unstructured Data
 
-## ------------------------------------------------
 ## Import data
-Input : Unstructured Data
-Output : DataFrame + Corpus (if text data)
-## ------------------------------------------------
+### Input : Unstructured Data
+### Output : DataFrame + Corpus (if text data)
 
-## ------------------------------------------------
 ## Process data
-Actions :
-    Handle missing values,
-    Dummy variables for categorical data,
-    Remove redundant samples
-    Scale feature values of continuous data
-Output : DataFrame + Corpus (if text data)
-## ------------------------------------------------
+### Actions :
+#### Handle missing values,
+#### Dummy variables for categorical data,
+#### Remove redundant samples
+#### Scale feature values of continuous data
+### Output : DataFrame + Corpus (if text data)
 
-## ------------------------------------------------
 ## Analyze data
-Input : DataFrame + Corpus (if text data)
-Perform EDA (Exploratory Data Analysis)
-## ------------------------------------------------
+### Input : DataFrame + Corpus (if text data)
+### Perform EDA (Exploratory Data Analysis)
 
-## ------------------------------------------------
 ## Clean data
-Actions : Standardize, text to vector
-Next step : Re-analyze data
-## ------------------------------------------------
+### Actions : Standardize, text to vector
+### Next step : Re-analyze data
 
-## ------------------------------------------------
 ## Model data
 
 1. Regression Algorithms
@@ -57,7 +44,7 @@ Stepwise Regression
 Multivariate Adaptive Regression Splines (MARS)
 Locally Estimated Scatterplot Smoothing (LOESS)
 
-## --------------------
+
 2. Instance-based Algorithms
 
 k-Nearest Neighbour (kNN)
@@ -65,7 +52,7 @@ Learning Vector Quantization (LVQ)
 Self-Organizing Map (SOM)
 Locally Weighted Learning (LWL)
 
-## --------------------
+
 3. Regularization Algorithms
 
 Ridge Regression
@@ -82,7 +69,7 @@ Decision Stump
 M5
 Conditional Decision Trees
 
-## --------------------
+
 5. Bayesian Algorithms
 
 Naive Bayes
@@ -92,7 +79,7 @@ Averaged One-Dependence Estimators (AODE)
 Bayesian Belief Network (BBN)
 Bayesian Network (BN)
 
-## --------------------
+
 6. Clustering Algorithms
 
 k-Means
@@ -100,13 +87,13 @@ k-Medians
 Expectation Maximisation (EM)
 Hierarchical Clustering
 
-## --------------------
+
 7. Association Rule Learning Algorithms
 
 Apriori algorithm
 Eclat algorithm
 
-## --------------------
+
 8. Artificial Neural Network Algorithms
 
 Perceptron
@@ -114,7 +101,7 @@ Back-Propagation
 Hopfield Network
 Radial Basis Function Network (RBFN)
 
-## --------------------
+
 9. Deep Learning Algorithms
 
 Deep Boltzmann Machine (DBM)
@@ -122,7 +109,7 @@ Deep Belief Networks (DBN)
 Convolutional Neural Network (CNN)
 Stacked Auto-Encoders
 
-## --------------------
+
 10. Dimensionality Reduction Algorithms
 
 Principal Component Analysis (PCA)
@@ -136,7 +123,7 @@ Mixture Discriminant Analysis (MDA)
 Quadratic Discriminant Analysis (QDA)
 Flexible Discriminant Analysis (FDA)
 
-## --------------------
+
 11. Ensemble Algorithms
 
 Boosting
@@ -147,7 +134,7 @@ Gradient Boosting Machines (GBM)
 Gradient Boosted Regression Trees (GBRT)
 Random Forest
 
-## --------------------
+
 12. Other Algorithms
 
 Computational intelligence (evolutionary algorithms, etc.)
@@ -157,12 +144,11 @@ Recommender Systems
 Reinforcement Learning
 Graphical Models
 
-## --------------------
-Decide : is data labelled? is data categorical or continuous?
-## ------------------------------------------------
 
-## ------------------------------------------------
+Decide : is data labelled? is data categorical or continuous?
+
+
+
 ## Report data product
 Input : Model output
 Output : Predictions, Decisions, Visualizations
-## ------------------------------------------------
