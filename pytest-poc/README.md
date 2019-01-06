@@ -1,6 +1,11 @@
-# Python Selenium | Pytest Framework
+# Python Selenium | Pytest Framework | Page Object Model
 
-+ Install Pytest : pip install pytest
+## Requirement
++ Python 3.x
++ `pip install selenium`
++ `pip install pytest`
+
+## Pytest options
 
 + Display results in verbose
 `Pytest <script> -v`
