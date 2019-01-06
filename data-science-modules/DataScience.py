@@ -1,7 +1,7 @@
 """
 Data Science modules
 @author : Shiva Prasad
-E-mail : shiv.id@icloud.com
+E-mail : id.shiv.prasad@gmail.com
 
 """
 
