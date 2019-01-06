@@ -136,11 +136,11 @@
     + Graphical Models
 
 
-## Model Decision
+### Model Decision
 + is data labelled?
 + is data categorical or continuous?
 
 
 ## Report data product
-Input : Model output
-Output : Predictions, Decisions, Visualizations
++ Input : Model output
++ Output : Predictions, Decisions, Visualizations
