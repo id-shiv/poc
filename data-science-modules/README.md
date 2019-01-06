@@ -144,3 +144,5 @@
 ## Report data product
 + Input : Model output
 + Output : Predictions, Decisions, Visualizations
+
+![](ML_Models.png)
