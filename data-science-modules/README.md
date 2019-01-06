@@ -1,12 +1,5 @@
 # Data Science
 
-## Machine Learning
-### Supervised
-1. Classification
-1. Regression
-### Un-Supervised
-1. Clustering
-
 ## Understand the problem
 * Output : Success metric (e.g. Mean Absolute Error)
 
