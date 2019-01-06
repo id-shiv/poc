@@ -1,39 +1,39 @@
 # Data Science
 
 ## Machine Learning
-### Supervised
+* Supervised
 1. Classification
 2. Regression
-### Un-Supervised
--> Clustering
+* Un-Supervised
+1. Clustering
 
 ## Understand the problem
-### Output : Success metric (e.g. Mean Absolute Error)
+* Output : Success metric (e.g. Mean Absolute Error)
 
 ## Collect data
-### Input : urls, csvs
-### Methods : Web-Scraping, Pandas manipulation
-### Output : Unstructured Data
+* Input : urls, csvs
+* Methods : Web-Scraping, Pandas manipulation
+* Output : Unstructured Data
 
 ## Import data
-### Input : Unstructured Data
-### Output : DataFrame + Corpus (if text data)
+* Input : Unstructured Data
+* Output : DataFrame + Corpus (if text data)
 
 ## Process data
-### Actions :
-#### Handle missing values,
-#### Dummy variables for categorical data,
-#### Remove redundant samples
-#### Scale feature values of continuous data
-### Output : DataFrame + Corpus (if text data)
+* Actions :
+** Handle missing values,
+** Dummy variables for categorical data,
+** Remove redundant samples
+** Scale feature values of continuous data
+* Output : DataFrame + Corpus (if text data)
 
 ## Analyze data
-### Input : DataFrame + Corpus (if text data)
-### Perform EDA (Exploratory Data Analysis)
+* Input : DataFrame + Corpus (if text data)
+* Perform EDA (Exploratory Data Analysis)
 
 ## Clean data
-### Actions : Standardize, text to vector
-### Next step : Re-analyze data
+* Actions : Standardize, text to vector
+* Next step : Re-analyze data
 
 ## Model data
 
