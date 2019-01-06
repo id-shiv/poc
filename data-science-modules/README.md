@@ -2,8 +2,8 @@
 
 ## Machine Learning
 ### Supervised
--> Classification
--> Regression
+1.Classification
+2.sRegression
 ### Un-Supervised
 -> Clustering
 
